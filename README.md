@@ -1,4 +1,1 @@
-* NLP
-* "Prompt Engineering"
-* Investment research
-* Go
+Investments and Go
